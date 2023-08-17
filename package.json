@@ -1,6 +1,6 @@
 {
-  "name": "clientgrpc",
-  "version": "0.0.1",
+  "name": "@dinhquangtrung123/clientgrpc",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "description": "",
